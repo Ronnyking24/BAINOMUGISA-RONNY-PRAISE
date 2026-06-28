@@ -1,0 +1,21 @@
+2026-06-28 19:20:11 - INFO - Application started.
+2026-06-28 19:20:11 - ERROR - Unexpected error in main loop.
+Traceback (most recent call last):
+  File "C:\Users\USER\Documents\Studies\BAINOMUGISA RONNY PRAISE\student_management.py", line 330, in main
+    choice = display_menu()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\USER\Documents\Studies\BAINOMUGISA RONNY PRAISE\student_management.py", line 319, in display_menu
+    return input("Choose an option (1-6): ").strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError
+2026-06-28 19:20:11 - INFO - Application shutdown completed.
+2026-06-28 19:20:37 - INFO - Application started.
+2026-06-28 19:20:37 - INFO - No input available at menu prompt; exiting.
+2026-06-28 19:20:37 - INFO - Application exited by user.
+2026-06-28 19:20:37 - INFO - Application shutdown completed.
+2026-06-28 19:22:45 - INFO - Application started.
+2026-06-28 19:23:42 - INFO - Saved 4 student records to students.csv.
+2026-06-28 19:23:42 - INFO - Saved student details for 4 records to students.json.
+2026-06-28 19:23:42 - INFO - Added student record: 2447574757
+2026-06-28 19:34:31 - INFO - Application interrupted by user.
+2026-06-28 19:34:31 - INFO - Application shutdown completed.

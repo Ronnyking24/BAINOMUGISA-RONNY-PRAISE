@@ -1,0 +1,22 @@
+{
+    "S001": {
+        "address": "12 Nile Road, Kampala",
+        "contact": "+256772123456",
+        "program": "Business Administration"
+    },
+    "S002": {
+        "address": "45 Market Street, Jinja",
+        "contact": "+256701987654",
+        "program": "Computer Science"
+    },
+    "S003": {
+        "address": "8 Lake View, Entebbe",
+        "contact": "+256705222333",
+        "program": "Information Technology"
+    },
+    "2447574757": {
+        "address": "kinyiti",
+        "contact": "07523565767",
+        "program": "BSU"
+    }
+}
